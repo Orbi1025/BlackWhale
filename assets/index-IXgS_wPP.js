@@ -17557,7 +17557,7 @@ const gE = () => {
                     "order-3 flex flex-row md:flex-col flex-wrap justify-center gap-3 md:gap-4",
                   children: [
                     y.jsxs("a", {
-                      href: "https://x.com/blaaackguy?s=21",
+                      href: "https://x.com/BlackWhaletoken",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className: "social-btn px-4 py-2 md:px-6 md:py-3",
@@ -17576,7 +17576,7 @@ const gE = () => {
                       ],
                     }),
                     y.jsxs("a", {
-                      href: "https://t.me/theblackwhaleofficialmeme",
+                      href: "https://t.me/BlackWhale_token",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       className:
@@ -18301,10 +18301,10 @@ const gE = () => {
   KE = () => {
     const [e, t] = S.useState(!1),
       n = [
-        { icon: xg, href: "https://x.com/blaaackguy?s=21", label: "Twitter" },
+        { icon: xg, href: "https://x.com/BlackWhaletoken", label: "Twitter" },
         {
           icon: Sg,
-          href: "https://t.me/theblackwhaleofficialmeme",
+          href: "https://t.me/BlackWhale_token",
           label: "Telegram",
         },
         {
